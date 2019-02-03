@@ -1,0 +1,2 @@
+# LaraRSS
+Laravel RSS Reader
